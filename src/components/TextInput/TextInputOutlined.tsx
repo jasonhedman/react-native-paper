@@ -352,7 +352,7 @@ const styles = StyleSheet.create({
     flexGrow: 1,
     paddingHorizontal: 12,
     margin: 0,
-    textAlign: I18nManager.isRTL ? 'right' : 'left',
+    textAlign: "center",
     zIndex: 1,
   },
   inputOutlined: {
